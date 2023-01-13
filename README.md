@@ -40,7 +40,7 @@ First of all, we need to run the master:
 
 In order o install the module, we need to go inside the `src` folder of our ROS workspace and clone the assignment folder:
 
-    git clone https://github.com/Miryru/RT_assignment_2
+    git clone https://github.com/alemuraa/ROS-simulator-ResearchTrack1-assignment2
 
 and from the root directory of our ROS workspace run the command:
 
