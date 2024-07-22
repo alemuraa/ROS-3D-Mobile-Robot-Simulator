@@ -1,5 +1,4 @@
-# Research Track: Assignment 2
-
+# ROS 3D Mobile Robot Simulator: Obstacle Avoidance and Target Navigation
 Mura Alessio S4861320
 
 ## Description
